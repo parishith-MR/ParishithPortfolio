@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ParishithPortfolio/static/css/main.7b892274.css",
+    "main.js": "/ParishithPortfolio/static/js/main.553839fb.js",
+    "static/media/parishith.png": "/ParishithPortfolio/static/media/parishith.554c2fe8fb063040d034.png",
+    "static/media/KavinCareAward.mp4": "/ParishithPortfolio/static/media/KavinCareAward.ad91286885bffbc4eeb0.mp4",
+    "static/media/H2BVisionaries.jpeg": "/ParishithPortfolio/static/media/H2BVisionaries.7af7d7de47d5e90f991f.jpeg",
+    "static/media/emboser.jpeg": "/ParishithPortfolio/static/media/emboser.c4318ff0f880ba1a0387.jpeg",
+    "index.html": "/ParishithPortfolio/index.html",
+    "main.7b892274.css.map": "/ParishithPortfolio/static/css/main.7b892274.css.map",
+    "main.553839fb.js.map": "/ParishithPortfolio/static/js/main.553839fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b892274.css",
+    "static/js/main.553839fb.js"
+  ]
+}
